@@ -12,7 +12,7 @@ We construct a fine-grained dataset of self-stimulatory behaviors in autism, ter
 
 
 
-
+### Citation
 ```
 @article{zhao2026efficient,
   title={Efficient analysis on behavior video: A fine-grained self-stimulatory dataset and a balanced patch-partition embedding framework},
